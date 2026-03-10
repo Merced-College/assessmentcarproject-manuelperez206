@@ -1,4 +1,4 @@
-Car_ID,Brand,Model,Year,Fuel_Type,Color,Mileage_kmpl
+javac Main.java Car.javaCar_ID,Brand,Model,Year,Fuel_Type,Color,Mileage_kmpl
 C1000,Tata,Nexon,2013,Hybrid,Blue,18.97
 C1001,Maruti,XUV500,2005,Diesel,Green,19.51
 C1002,Honda,XUV500,2009,Electric,White,15.14
